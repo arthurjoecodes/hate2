@@ -21,19 +21,19 @@ Colors:
 }
 
 body{
-    font-family: 'Pixelify Sans', cursive;
+    font-family: 'Playpen Sans', cursive;
 }
 
-/* li{
+ li{
     list-style: none;
     display: inline-block;
-} */
+} 
 
-/* a{
+ a{
     text-decoration: none;
-} */
+} 
 
-.container{
+    .container{
     max-width: 1400px;
     margin: 0 auto;
     background-color: #fff;
@@ -51,4 +51,7 @@ body{
 
 header h1{
     text-align: center;
+    color:#2c3e50;
+    padding: 20px 0;
+
 }
